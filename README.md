@@ -5,7 +5,7 @@ I'm Prerna Agrawal😉, technology consultant 👨🏻‍💻 from India. I most
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?vCenter=true&width=500&lines=Technology+Consultant+and+Salesforce+Developer;Integration+Developer+with+6%2B+Years+Experience;Passionate+about+AWS+And+Cloud+Technologies)](https://git.io/typing-svg)
 
 ### How to reach me: 
-<a href="mailto: prernasalesforce@gmail.com"></a>
+<a href="mailto: prernasalesforce@gmail.com">prernasalesforce@gmail.com</a>
 
 ### Current Status Quo:
 
