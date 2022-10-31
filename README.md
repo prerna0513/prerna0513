@@ -43,7 +43,6 @@ I'm Prerna Agrawal😉, technology consultant 👨🏻‍💻 from India. I most
   <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=prerna0513&theme=material-palenight"/>
 </a>
 
-### Github Activity: 🔥 
-<img align="center" src="https://activity-graph.herokuapp.com/graph?username=prerna0513&theme=dracula&color=B994E6&bg_color=2B2D3D" />
+
 
 
